@@ -1,0 +1,15 @@
+C:\Users\UmaGa\Desktop\Aula\LP2Aula06\ExceptionTest\bin\Debug\net6.0\ExceptionTest.exe
+C:\Users\UmaGa\Desktop\Aula\LP2Aula06\ExceptionTest\bin\Debug\net6.0\ExceptionTest.deps.json
+C:\Users\UmaGa\Desktop\Aula\LP2Aula06\ExceptionTest\bin\Debug\net6.0\ExceptionTest.runtimeconfig.json
+C:\Users\UmaGa\Desktop\Aula\LP2Aula06\ExceptionTest\bin\Debug\net6.0\ExceptionTest.dll
+C:\Users\UmaGa\Desktop\Aula\LP2Aula06\ExceptionTest\bin\Debug\net6.0\ExceptionTest.pdb
+C:\Users\UmaGa\Desktop\Aula\LP2Aula06\ExceptionTest\obj\Debug\net6.0\ExceptionTest.csproj.AssemblyReference.cache
+C:\Users\UmaGa\Desktop\Aula\LP2Aula06\ExceptionTest\obj\Debug\net6.0\ExceptionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UmaGa\Desktop\Aula\LP2Aula06\ExceptionTest\obj\Debug\net6.0\ExceptionTest.AssemblyInfoInputs.cache
+C:\Users\UmaGa\Desktop\Aula\LP2Aula06\ExceptionTest\obj\Debug\net6.0\ExceptionTest.AssemblyInfo.cs
+C:\Users\UmaGa\Desktop\Aula\LP2Aula06\ExceptionTest\obj\Debug\net6.0\ExceptionTest.csproj.CoreCompileInputs.cache
+C:\Users\UmaGa\Desktop\Aula\LP2Aula06\ExceptionTest\obj\Debug\net6.0\ExceptionTest.dll
+C:\Users\UmaGa\Desktop\Aula\LP2Aula06\ExceptionTest\obj\Debug\net6.0\refint\ExceptionTest.dll
+C:\Users\UmaGa\Desktop\Aula\LP2Aula06\ExceptionTest\obj\Debug\net6.0\ExceptionTest.pdb
+C:\Users\UmaGa\Desktop\Aula\LP2Aula06\ExceptionTest\obj\Debug\net6.0\ExceptionTest.genruntimeconfig.cache
+C:\Users\UmaGa\Desktop\Aula\LP2Aula06\ExceptionTest\obj\Debug\net6.0\ref\ExceptionTest.dll
