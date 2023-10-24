@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MyScript : MonoBehaviour
 {
-    [SerializeField] private int _myInt;
+    [SerializeField] [Range(0, 500)] private int _myInt;
     
     // Start is called before the first frame update
     void Start()
